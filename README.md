@@ -22,7 +22,7 @@ sudo dnf install mpv        # Fedora
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/jkani-cli.git
+git clone https://github.com/CoreFox20/jkani-cli.git
 cd jkani-cli
 ```
 
